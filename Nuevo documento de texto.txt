@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 32425235232asdasdasasdasasdasda
+=======
+32425235232asdasdasasdasasdasdadasdasdasdsaasa
+>>>>>>> develop
